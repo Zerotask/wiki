@@ -1,11 +1,11 @@
 {
-  "name": "doks-child-theme",
-  "description": "Doks child theme",
+  "name": "nastyville-wiki",
+  "description": "Wiki for Nastyville",
   "version": "0.3.3",
   "browserslist": [
     "defaults"
   ],
-  "repository": "https://github.com/h-enk/doks",
+  "repository": "https://github.com/Nastyville/wiki",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
