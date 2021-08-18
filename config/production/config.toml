@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 baseurl = "youthful-engelbart-bb92f3.netlify.app/"
-=======
-baseurl = "https://doks-child-theme.netlify.app/"
->>>>>>> 86ae98fe1a8201650afe07b97055f24d3dffebad
 canonifyURLs = true
