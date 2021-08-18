@@ -1,4 +1,4 @@
-baseurl = "https://youthful-engelbart-bb92f3.netlify.app/"
+baseurl = "youthful-engelbart-bb92f3.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
